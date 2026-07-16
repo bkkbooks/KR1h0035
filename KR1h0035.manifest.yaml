@@ -23,11 +23,11 @@ assets:
   - {seq: 3, filename: KR1h0035_003.yaml, hash: 'sha256:6775a1e05dd022ee1f0aa8a7b57ff1421a4e6474921aae6dfc38f244900c9eb6'}
   - {seq: 4, filename: KR1h0035_004.yaml, hash: 'sha256:ca357c621913c10fd4985b79ab75a962ee4204ac53198353234d3e88e6b2d42a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR1h0035_000.markers.yaml, hash: 'sha256:f2f4da53d54cc70304e18f580f36fa1686f514ca8b4e69923e35de4ec533a9d4'}
-  - {seq: 1, role: markers, filename: assets/KR1h0035_001.markers.yaml, hash: 'sha256:22697bb0bd3c70b70bbbe7f418cf75dee345a379d0746d57b1cd829809b2e86a'}
-  - {seq: 2, role: markers, filename: assets/KR1h0035_002.markers.yaml, hash: 'sha256:51f509e6a717c92db04d47040682d82e13b5bf5c3e88b42a26700f75dc4d0034'}
-  - {seq: 3, role: markers, filename: assets/KR1h0035_003.markers.yaml, hash: 'sha256:8206a46d56a48d34bdebcf2596dcb11646628659e81b3d08c7f6e43b746daf2d'}
-  - {seq: 4, role: markers, filename: assets/KR1h0035_004.markers.yaml, hash: 'sha256:faed7b90ce4fbce6e717e14c7f145141b3e530b48743bc81433192a79477dc7f'}
+  - {seq: 0, role: markers, filename: assets/KR1h0035_000.markers.yaml, hash: 'sha256:039d9316ccab9e31b626995d6dc56bcb4a0e2f5fe5fc34990282b49ec31572d1'}
+  - {seq: 1, role: markers, filename: assets/KR1h0035_001.markers.yaml, hash: 'sha256:c749f4634f65c94e4fa7f2452f235805e379f53f286d054c585c9313cbfffa63'}
+  - {seq: 2, role: markers, filename: assets/KR1h0035_002.markers.yaml, hash: 'sha256:470f2edcd6d1e408a1dea8e04bf95e31e926db97b3dbfb287e1b35a49932088e'}
+  - {seq: 3, role: markers, filename: assets/KR1h0035_003.markers.yaml, hash: 'sha256:5962be8160947d0f465d6df8cd40d1089bca064a15c8cc64d4c1945e345ea840'}
+  - {seq: 4, role: markers, filename: assets/KR1h0035_004.markers.yaml, hash: 'sha256:6bbcc38857e232963241fab8c3334e8aeedf67f4ee6acc91b40979442eec4858'}
 table_of_contents:
 - ref:
     seq: 0
@@ -79,7 +79,7 @@ table_of_contents:
   label: juan 004
   type: section
   level: 1
-hash: sha256:d996782384900a23888d5689389c046334d831424d65a2482838351f98a9d2fa
+hash: sha256:778d16e965cb53e808cf6f436833210cdfb63c1c2069c1c64eca779deb076d54
 editions:
 - short: WYG
 mappings:
